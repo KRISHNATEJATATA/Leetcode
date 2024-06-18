@@ -1,4 +1,4 @@
-//75 sort colors 
+# 75 sort colors 
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
         r, w, b = 0, 0, len(nums) - 1
